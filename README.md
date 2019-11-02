@@ -8,3 +8,4 @@ I obtenin the data from https://data.worldbank.org/. The data contains eight fea
 
 ## EDA
 
+![Uploading Screen Shot 2019-11-02 at 5.31.33 PM.png…]()
