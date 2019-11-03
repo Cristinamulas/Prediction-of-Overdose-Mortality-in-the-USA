@@ -25,8 +25,14 @@ Therefore, I decided to build a model using time series to predict the future of
   a.First, I had to clean the data. I replaced the word ‘Suppressed’ for a zero value. Then, I convert the Deaths feature from an object into a numeric value. Finally, I subset my dataset by State.
 
   b.After, we performed exploratory data analysis (EDA) on my data by separating the data into States. I also made maps to see which states had the higher death by overdose in different years.
-
+  
+  ![](/Screen%20Shot%202019-11-02%20at%205.31.33%20PM.png)
+  ![](/Screen%20Shot%202019-11-03%20at%2011.50.28%20AM.png)
+  
   c.I used Arima model to predict future outcomes of overdose mortality by each State. I also implement time series using a packed made by Facebook called Prophet. With this packed, I could implement a more detailed analysis.
+  ![](/Screen%20Shot%202019-11-03%20at%2011.51.29%20AM.png)
+  ![](/Screen%20Shot%202019-11-03%20at%2011.51.50%20AM.png)
+  ![](/Screen%20Shot%202019-11-03%20at%2011.52.09%20AM.png)
 
 ## Future Work
 
