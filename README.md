@@ -2,9 +2,9 @@
 
 ## Outline:
 
-  Motivation
+ - Motivation
 
-  Project
+ - Project
 
 a. clean data
 
@@ -12,7 +12,7 @@ b. exploratory data analysis (EDA)
 
 c. modeling
 
-  Future Work
+ - Future Work
 
 ## Motivation
 
