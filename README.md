@@ -6,11 +6,11 @@
 
  - Project
 
-a. clean data
+     a. clean data
 
-b. exploratory data analysis (EDA)
+     b. exploratory data analysis (EDA)
 
-c. modeling
+     c. modeling
 
  - Future Work
 
